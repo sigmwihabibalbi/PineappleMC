@@ -2,6 +2,8 @@
 
 **PineappleMC by sigma_conexion** is an unofficial, green-themed Minecraft launcher built from the Horizon Rust project. It adds Ely.by account sign-in and a PineappleMC-branded Windows installer.
 
+**Website:** [sigmwihabibalbi.github.io/PineappleMC](https://sigmwihabibalbi.github.io/PineappleMC/)
+
 ## Download
 
 Download **PineappleMC-Setup** from this repository's [Releases](../../releases) page. Run the installer for a per-user installation; administrator access is not required. The project also includes `README.txt` with quick Windows setup notes.
